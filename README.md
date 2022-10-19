@@ -1,2 +1,2 @@
-# Pasta-Reposit-rio
+# Pasta Repositório
 Primeiro contato com o comit
